@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Món ăn 1",
+    "contentBlocks": [
+      { "type": "text", "content": "" },
+      { "type": "image", "content": "https://bom.so/mbe09r" },
+      { "type": "text", "content": "Chi tiết: XYZ" },
+      { "type": "text", "content": "Giá bán 300k" }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Món ăn 1",
+    "contentBlocks": [
+      { "type": "text", "content": "" },
+      { "type": "image", "content": "https://bom.so/mbe09r" },
+      { "type": "text", "content": "Chi tiết: XYZ" },
+      { "type": "text", "content": "Giá bán 300k" }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Món ăn 1",
+    "contentBlocks": [
+      { "type": "text", "content": "" },
+      { "type": "image", "content": "https://bom.so/mbe09r" },
+      { "type": "text", "content": "Chi tiết: XYZ" },
+      { "type": "text", "content": "Giá bán 300k" }
+    ]
+  }
+]
